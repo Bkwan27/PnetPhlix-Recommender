@@ -1,0 +1,23 @@
+For the tree, I inserted different strings into a tree mapping strings to ints. I used similar strings like "a", "abc", etc. 
+I would also insert values that have the same key or string to see if it was stored in the vector. Then I would use the 
+iterator to access the tree and see if it printed things in the right order and if it found the value efficiently. I would 
+iterate through the whole ValueType vector using the iterator to see if the iterator functions were working if they were 
+printing the right values and also ending the iterator at the right time. 
+
+For the user database, I would enter various emails from the user text file and see if it found the right user and their 
+attributes such as their name and movies watched. I would test how fast it would search and load the user to get an estimate 
+on how long my thing was taking. I also compared my results with other students to see if mine were consistent and accurate. I
+also tried making custom user text files with similar users, different users, same users, etc to see if the database search 
+was accurate and consistent in terms of time.
+
+For the movie database, I would enter movie IDs, directors, actors, and genres and see what was given to me. Then, I would 
+print out all the results (Movie attributes such as ID, director, actor, genre, and more) and compare them with other students
+to see if they were consistent with their results. Like user database, I also timed it to get a gauge on how long it took to 
+search and load the Movie database. I also did custom Movie text files to account for custom scnearios like having two movies
+with the same ID or having the same actors for two movies.
+
+For recommender, I tested with the given movie and user text files to see if it consistently found the same results and also
+compared it with other students to see if my recommender was accurate. I also had custom files that I used for custom scenarios
+like multiple of same user or having same movies in Movie database. I also timed in g32 along with my Visual Studio compiler
+to see if it did it fast. I used a C++ timer to measure the speed of my function.
+

@@ -1,0 +1,135 @@
+ID10782
+Santosh Subramaniam
+2008
+M. Raja
+Jayam Ravi,Genelia D'Souza,Prakash Raj,Sayaji Shinde,Geetha
+Action,Comedy,Romance
+5
+
+ID25779
+The Carpet of Horror
+1962
+Harald Reinl
+Joachim Fuchsberger,Karin Dor,Werner Peters,Eleonora Rossi Drago,Carl Lange
+Crime,Horror
+2.25
+
+ID35763
+Monkey Love Experiments
+2014
+Will Anderson
+Tobias Feltus,Oliver Henderson
+Animation,Drama
+4
+
+ID02298
+The Arbalest
+2016
+Adam Pinney
+Mike Brune,Tallie Medel,Matthew Stanton,Felice Heather Monteith,Jon Briddell
+Drama
+3.5
+
+ID39761
+The Truth About Alex
+1986
+Paul Shapiro
+Scott Baio,Peter Spence,Jessica Steen,Jeremy Ratchford,Michael J. Reynolds
+Drama
+3.16667
+
+ID39216
+No Safe Spaces
+2019
+Justin Folk
+Dennis Prager,Adam Carolla,Ben Shapiro,Jordan B. Peterson,Dave Rubin
+Documentary
+3.44444
+
+ID10639
+I Love You, Man
+2009
+John Hamburg
+Paul Rudd,Jason Segel,Rashida Jones,Sarah Burns,Jaime Pressly,Jon Favreau,Jane Curtin,J.K. Simmons,Andy Samberg,Rob Huebel,Kym Whitley,Mather Zickel,Aziz Ansari,Nick Kroll,Catherine Reitman,Carla Gallo,Josh Cooke,Jay Chandrasekhar,Jerry Minor,Joe Lo Truglio,Thomas Lennon,Matt Walsh,Lou Ferrigno,David Wain,David Krumholtz
+Comedy
+3.58196
+
+ID19214
+The Queen of Trees
+2005
+Mark Deeble
+Ian Holm
+Documentary,Drama
+4.25
+
+ID00910
+Paris The Luminous Years
+2010
+Perry Miller Adato
+Josephine Baker,Sylvia Beach,Daniel Breaker,Chris Henry Coffey,Aaron Copland
+Documentary
+3
+
+ID38613
+Maria, Mirabella
+1981
+Ion Popescu-Gopo
+Gilda Manolescu,Medeea Marinescu,Ion Popescu-Gopo,Ingrid Celia,Lyudmila Gnilova
+Animation,Children,Comedy
+2
+
+ID36147
+Heads
+1994
+Paul Shapiro
+Jon Cryer,Ed Asner,Nancy Drake,Wayne Robson,Jennifer Tilly,Roddy McDowall
+Comedy,Crime
+1.33333
+
+ID31049
+Klaus
+2019
+Sergio Pablos
+Rashida Jones,J.K. Simmons,Joan Cusack,Jason Schwartzman,Tucker Meek
+Adventure,Animation,Children,Comedy
+3.85808
+
+ID38033
+The Devil's Partner
+1961
+Charles R. Rondeau
+Edgar Buchanan,Jean Allison,Richard Crane,Spencer Carlisle,Byron Foulger
+Horror
+2.5
+
+ID21608
+Trackman
+2007
+Igor Shavlak
+Dmitriy Orlov,Svetlana Metkina,Yuliya Mikhailova,Igor Shavlak,Aleksandr Vysokovskiy
+Horror,Thriller
+1.83333
+
+ID13832
+Next
+1990
+Barry Purves
+Roger Rees,Barry Purves
+Animation
+3.25
+
+ID15176
+The Life and Times of Frida Kahlo
+2005
+Amy Stechler
+Rita Moreno,Lila Downs,Leon Trotsky
+Documentary
+4
+
+ID29913
+Dead Husbands
+1998
+Paul Shapiro
+Nicollette Sheridan,John Ritter,Amy Yasbeck
+Comedy,Drama,Romance
+1.25
